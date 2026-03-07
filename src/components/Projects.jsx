@@ -6,21 +6,21 @@ const Projects = () => {
     const projects = [
         {
             id: 1,
-            name: 'DevStatix',
-            description: 'A dynamic React application that leverages GitHub APIs to display detailed user profiles and public repositories, highlighting API integration, state management, and responsive UI design.',
-            github: 'https://github.com'
+            name: 'Movie Booking System',
+            description: 'A movie ticket booking web application using React.js, implementing secure login and registration with form validation, and enabling features such as movie listings, seat selection, and booking confirmation.',
+            github: 'https://github.com/Sankeerth6655'
         },
         {
             id: 2,
-            name: 'Portfolio Website',
-            description: 'A personal portfolio website designed with Tailwind CSS and React to showcase skills and projects, featuring smooth scrolling and animations.',
-            github: 'https://github.com'
+            name: 'DevStatix',
+            description: 'A dynamic React application that leverages GitHub APIs to display detailed user profiles and public repositories, highlighting API integration, state management, and responsive UI design.',
+            github: 'https://github.com/Sankeerth6655/DevStatix'
         },
         {
             id: 3,
-            name: 'E-Commerce Cart System',
-            description: 'A dynamic single-page shopping application using React.js and JavaScript ES6+ for efficient state management and data manipulation.',
-            github: 'https://github.com'
+            name: 'Portfolio Website',
+            description: 'A personal portfolio website designed with Tailwind CSS and React to showcase skills and projects, featuring smooth scrolling and animations.',
+            github: 'https://github.com/Sankeerth6655/New-Portfolio-React'
         },
         // {
         //     id: 4,
@@ -71,3 +71,4 @@ const Projects = () => {
 };
 
 export default Projects;
+
