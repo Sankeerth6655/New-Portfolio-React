@@ -30,7 +30,7 @@ const About = () => {
 
                 <div className="grid md:grid-cols-2 gap-10 px-6 sm:px-0">
                     <div className="flex flex-col justify-center gap-6">
-                        {skills.slice(0, 4).map(({ title, level }) => (
+                        {skills.slice(0, 6).map(({ title, level }) => (
                             <div key={title} className="w-full group">
                                 <div className="flex justify-between mb-2">
                                     <span className="text-lg font-bold text-gray-200 group-hover:text-cyan-400 duration-300">{title}</span>
@@ -45,7 +45,7 @@ const About = () => {
                         ))}
                     </div>
                     <div className="flex flex-col justify-center gap-6">
-                        {skills.slice(4).map(({ title, level }) => (
+                        {skills.slice(6).map(({ title, level }) => (
                             <div key={title} className="w-full group">
                                 <div className="flex justify-between mb-2">
                                     <span className="text-lg font-bold text-gray-200 group-hover:text-cyan-400 duration-300">{title}</span>
