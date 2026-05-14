@@ -4,10 +4,14 @@ const About = () => {
     const skills = [
         { title: 'HTML5', level: 10 },
         { title: 'CSS3', level: 10 },
-        { title: 'JavaScript', level: 9.5 },
-        { title: 'React', level: 10 },
         { title: 'Tailwind CSS', level: 9 },
+        { title: 'JavaScript', level: 9.5 },
+        { title: 'TypeScript', level: 8.5 },
+        { title: 'React.js', level: 10 },
+        { title: 'Node.js', level: 10 },
+        { title: 'Express.js', level: 10 },
         { title: 'MySQL', level: 8.5 },
+        { title: 'MongoDB', level: 9 },
         { title: 'Java', level: 8.5 },
         { title: 'C', level: 9 },
     ];
