@@ -84,7 +84,7 @@ const Contact = () => {
                             </div>
                         </div>
 
-                        <div className="flex items-center gap-6 group hover:translate-x-2 duration-300">
+                        {/* <div className="flex items-center gap-6 group hover:translate-x-2 duration-300">
                             <div className="p-4 rounded-full bg-blue-900/20 text-cyan-400 shadow-[0_0_15px_rgba(6,182,212,0.2)]">
                                 <FaPhone size={28} />
                             </div>
@@ -92,7 +92,7 @@ const Contact = () => {
                                 <p className="text-gray-400 text-sm mb-1 uppercase tracking-wider font-semibold">Phone</p>
                                 <p className="font-bold text-lg sm:text-lg text-gray-100">9866500400</p>
                             </div>
-                        </div>
+                        </div> */}
 
                         <div className="flex items-center gap-6 group hover:translate-x-2 duration-300">
                             <div className="p-4 rounded-full bg-blue-900/20 text-cyan-400 shadow-[0_0_15px_rgba(6,182,212,0.2)]">
