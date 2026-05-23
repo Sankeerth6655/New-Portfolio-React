@@ -6,15 +6,15 @@ const Projects = () => {
     const projects = [
         {
             id: 1,
-            name: 'Movie Booking System',
-            description: 'A movie ticket booking web application using React.js, implementing secure login and registration with form validation, and enabling features such as movie listings, seat selection, and booking confirmation.',
-            github: 'https://github.com/Sankeerth6655'
+            name: 'QuickChat-AI',
+            description: 'A full-stack real-time chat application built with the MERN stack and Socket.IO, enabling instant messaging, live user interactions, secure authentication, and a responsive user experience across devices.',
+            github: 'https://github.com/Sankeerth6655/QuickChat-AI'
         },
         {
-            id: 2,
-            name: 'DevStatix',
-            description: 'A dynamic React application that leverages GitHub APIs to display detailed user profiles and public repositories, highlighting API integration, state management, and responsive UI design.',
-            github: 'https://github.com/Sankeerth6655/DevStatix'
+            id: 1,
+            name: 'Movie Booking System',
+            description: 'A movie ticket booking web application using React.js, implementing secure login and registration with form validation, and enabling features such as movie listings, seat selection, and booking confirmation.',
+            github: 'https://github.com/Sankeerth6655/movie-booking-system'
         },
         {
             id: 3,
