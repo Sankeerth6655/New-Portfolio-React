@@ -6,21 +6,21 @@ const Projects = () => {
     const projects = [
         {
             id: 1,
-            name: 'QuickChat-AI',
+            name: 'prompt2learn',
+            description: 'AI-powered learning platform that creates personalized roadmaps, generates learning content, and provides an AI mentor for guided learning and doubt resolution.',
+            github: 'https://github.com/Sankeerth6655/prompt2learn'
+        },
+        {
+            id: 2,
+            name: 'QuickChat',
             description: 'A full-stack real-time chat application built with the MERN stack and Socket.IO, enabling instant messaging, live user interactions, secure authentication, and a responsive user experience across devices.',
             github: 'https://github.com/Sankeerth6655/QuickChat-AI'
         },
         {
-            id: 1,
-            name: 'Movie Booking System',
+            id: 3,
+            name: 'BookMyShow',
             description: 'A movie ticket booking web application using React.js, implementing secure login and registration with form validation, and enabling features such as movie listings, seat selection, and booking confirmation.',
             github: 'https://github.com/Sankeerth6655/movie-booking-system'
-        },
-        {
-            id: 3,
-            name: 'Portfolio Website',
-            description: 'A personal portfolio website designed with Tailwind CSS and React to showcase skills and projects, featuring smooth scrolling and animations.',
-            github: 'https://github.com/Sankeerth6655/New-Portfolio-React'
         },
         // {
         //     id: 4,
